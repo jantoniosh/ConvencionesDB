@@ -1,6 +1,6 @@
 USE [master]
 GO
-/****** Object:  Database [ConvencionesDB]    Script Date: 20/01/2022 02:43:48 a. m. ******/
+/****** Object:  Database [ConvencionesDB]    Script Date: 24/01/2022 10:14:42 p. m. ******/
 CREATE DATABASE [ConvencionesDB]
  CONTAINMENT = NONE
  ON  PRIMARY 
@@ -75,7 +75,7 @@ ALTER DATABASE [ConvencionesDB] SET DELAYED_DURABILITY = DISABLED
 GO
 USE [ConvencionesDB]
 GO
-/****** Object:  Table [dbo].[tblEntrada]    Script Date: 20/01/2022 02:43:48 a. m. ******/
+/****** Object:  Table [dbo].[tblEntrada]    Script Date: 24/01/2022 10:14:42 p. m. ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
